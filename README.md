@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola 👋, my name is H. E.
+#### I am cybersecurity enthusiast and spanish developer
+![I am cybersecurity enthusiast and spanish developer](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
-<!--
-**Devil-bit123/Devil-bit123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to meet new people with my same interests
 
-Here are some ideas to get you started:
+Habilidades: PHP / C# / JAVA / HTML / CSS/Xamarin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en Cashier/Xamarin app 
+- 🌱 Estoy aprendiendo phyton , VueJs 
+
+
+
+
