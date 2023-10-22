@@ -4,10 +4,10 @@
 
 I like to meet new people with my same interests
 
-Skills: PHP / C# / JAVA / HTML / CSS/Xamarin
+Skills: PHP / C# / JAVA / Bootstrap / Xamarin / ASP
 
-- 🔭 I’m currently working on Cashier/Xamarin app 
-- 🌱 I’m currently learning phyton , VueJs 
+- 🔭 I’m currently working on analyticahub.ai (sales and data analysis platform)
+- 🌱 I’m currently learning Angular 
 
 
 
