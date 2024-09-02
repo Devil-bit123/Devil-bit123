@@ -5,8 +5,10 @@
 I like to meet new people with my same interests
 
 Skills: 
-LARAVEL  ■ ■ ■ ■ ■
-. NET    ■ ■ ■ ■
+LARAVEL  ■ ■ ■ ■ ■  
+
+. NET    ■ ■ ■ ■  
+
 ANGULAR  ■ ■ ■
 
 - 🌱 I’m currently improving my Angular skilss
