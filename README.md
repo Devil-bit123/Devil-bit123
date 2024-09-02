@@ -4,10 +4,12 @@
 
 I like to meet new people with my same interests
 
-Skills: PHP / C# / JAVA / Bootstrap / Xamarin / ASP
+Skills: 
+LARAVEL  ■ ■ ■ ■ ■
+. NET    ■ ■ ■ ■
+ANGULAR  ■ ■ ■
 
-- 🔭 I’m currently working on analyticahub.ai (sales and data analysis platform)
-- 🌱 I’m currently learning Angular 
+- 🌱 I’m currently improving my Angular skilss
 
 
 
