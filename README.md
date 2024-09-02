@@ -4,7 +4,8 @@
 
 I like to meet new people with my same interests
 
-Skills: 
+Skills:  
+
 LARAVEL  ■ ■ ■ ■ ■  
 
 . NET    ■ ■ ■ ■  
