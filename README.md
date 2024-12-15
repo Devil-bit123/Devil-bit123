@@ -6,11 +6,11 @@
 
 ### About Me 🚀
 
+### JS
 ```javascript
-// Example of presenting skills in JavaScript
+
 function hello(name, languages) {
   console.log(`¡Hola! Soy ${name}, un desarrollador web, tengo amplia experiencia en los siguientes lenguajes:`);
-
   console.log('Mis lenguajes más usados son:');
   languages.forEach((language, index) => {
     console.log(`${index + 1}. ${language}`);
@@ -20,6 +20,8 @@ function hello(name, languages) {
 hello('Devil Bit', ['PHP', 'Angular', '.NET']);
 
 ````
+
+### PHP
 ````
 <?php
 function listarExperiencia($nombre, $experiencias) {
@@ -29,7 +31,7 @@ function listarExperiencia($nombre, $experiencias) {
     }
 }
 
-// Example usage
+
 listarExperiencia([
     'Especialista en soporte técnico - Grupo Sertracen - feb. 2021 - abr. 2021',
     'Desarrollador Full Stack - Rusty Chicken - sept. 2021 - ene. 2023',
@@ -38,3 +40,50 @@ listarExperiencia([
     'Desarrollador Full Stack - Provedatos del Ecuador SA - sept. 2024 - actualidad'
 ]);
 ?>
+````
+
+### .Net
+````
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        MostrarLenguajesPorAprender("H. E.", new List<string>
+        {
+            "Phyton",
+            "Kotlin",
+        });
+    }
+
+    static void MostrarLenguajesPorAprender(List<string> lenguajes)
+    {
+        Console.WriteLine("estoy emocionado por aprender los siguientes lenguajes:");
+        
+        for (int i = 0; i < lenguajes.Count; i++)
+        {
+            Console.WriteLine($"{i + 1}. {lenguajes[i]}");
+        }
+    }
+}
+````
+### TS
+````
+function listarHabilidadesExtras(nombre: string, habilidades: string[]): void {
+    console.log('Además de desarrollar software, tengo habilidades extras en:');
+    habilidades.forEach((habilidad, index) => {
+        console.log(`${index + 1}. ${habilidad}`);
+    });
+}
+
+// Llamada a la función con tus datos
+listarHabilidadesExtras('H. E.', [
+    'Docker',
+    'Linux',
+    'Git',
+    'Administración de servidores',
+    'Ciberseguridad'
+]);
+
