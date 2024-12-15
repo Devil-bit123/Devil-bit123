@@ -16,9 +16,12 @@ ANGULAR  ■ ■ ■
 
 
 ```javascript
-function saludar(nombre) {
-    return `Hola, ${nombre}!`;
+function hello(name, languages) {
+  console.log(`¡Hola! Soy ${name}, un desarrollador web, tengo amplia experiencia en los siguientes lenguajes:`);
+
+  console.log('Mis lenguajes más usados son:');
+  languages.forEach((language, index) => {
+    console.log(`${index + 1}. ${language}`);
+  });
 }
-
-console.log(saludar('Mundo'));
-
+hello('Devil Bit', ['PHP', 'Angular', '.Net#']);
