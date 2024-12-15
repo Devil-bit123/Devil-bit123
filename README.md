@@ -10,8 +10,7 @@
 ```javascript
 
 function hello(name, languages) {
-  console.log(`¡Hola! Soy ${name}, un desarrollador web, tengo amplia experiencia en los siguientes lenguajes:`);
-  console.log('Mis lenguajes más usados son:');
+  console.log(`¡Hello! I'm ${name}, a web developer, I have extensive experience in the following languages:`);
   languages.forEach((language, index) => {
     console.log(`${index + 1}. ${language}`);
   });
@@ -25,7 +24,7 @@ hello('Devil Bit', ['PHP', 'Angular', '.NET']);
 ````
 <?php
 function listarExperiencia($nombre, $experiencias) {
-    echo "#### Mi experiencia incluye:\n\n";
+    echo "#### My experience includes:\n\n";
     foreach ($experiencias as $experiencia) {
         echo "- $experiencia\n";
     }
@@ -51,7 +50,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        MostrarLenguajesPorAprender("H. E.", new List<string>
+        MostrarLenguajesPorAprender(" new List<string>
         {
             "Phyton",
             "Kotlin",
@@ -60,7 +59,7 @@ class Program
 
     static void MostrarLenguajesPorAprender(List<string> lenguajes)
     {
-        Console.WriteLine("estoy emocionado por aprender los siguientes lenguajes:");
+        Console.WriteLine("I am excited to learn the following languages:");
         
         for (int i = 0; i < lenguajes.Count; i++)
         {
@@ -71,15 +70,14 @@ class Program
 ````
 ### TS
 ````
-function listarHabilidadesExtras(nombre: string, habilidades: string[]): void {
-    console.log('Además de desarrollar software, tengo habilidades extras en:');
+function listarHabilidadesExtras(habilidades: string[]): void {
+    console.log('In addition to developing software, I have extra skills in:');
     habilidades.forEach((habilidad, index) => {
         console.log(`${index + 1}. ${habilidad}`);
     });
 }
 
-// Llamada a la función con tus datos
-listarHabilidadesExtras('H. E.', [
+listarHabilidadesExtras([
     'Docker',
     'Linux',
     'Git',
