@@ -15,5 +15,10 @@ ANGULAR  ■ ■ ■
 - 🌱 I’m currently improving my Angular skilss
 
 
+```javascript
+function saludar(nombre) {
+    return `Hola, ${nombre}!`;
+}
 
+console.log(saludar('Mundo'));
 
