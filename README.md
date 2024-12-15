@@ -3,6 +3,7 @@
 ![I am cybersecurity enthusiast and Spanish developer](https://echarts.apache.org/examples/en/editor.html?c=bar-simple&code=PYBwLglsB2AEC8sDeAoWsAeBBDEDOAXMmurGAJ4gCmRA5AMYCGYVA5sAE7m0A0J6AE2aMiAbVoAZRh0YA3KgBtesWlmisArgunLaAOgByVMLQC6JAL5905HPiKpSZSjRWzGCjVVqXrsPFQcEFSEsKL8xE6CwmIAHACsPLAA7Ikp8aZ-ThTUdABGOhEWJOYWANxAA)
 
 [Visita mi página HTML](./bar-simple.html)
+[Visita mi página web](./bar-simple.html)
 
 ---
 
