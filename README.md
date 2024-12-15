@@ -24,14 +24,13 @@ hello('Devil Bit', ['PHP', 'Angular', '.NET']);
 <?php
 function listarExperiencia($nombre, $experiencias) {
     echo "#### Mi experiencia incluye:\n\n";
-    echo "¡Hola! Soy $nombre\n\n";
     foreach ($experiencias as $experiencia) {
         echo "- $experiencia\n";
     }
 }
 
 // Example usage
-listarExperiencia('Devil Bit', [
+listarExperiencia([
     'Especialista en soporte técnico - Grupo Sertracen - feb. 2021 - abr. 2021',
     'Desarrollador Full Stack - Rusty Chicken - sept. 2021 - ene. 2023',
     'Desarrollador de software - PLUGTHEM - mar. 2023 - jul. 2024',
